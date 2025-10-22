@@ -1,0 +1,4 @@
+# timetickersample
+
+Go言語で一定時間経過後にメインプロセスを実行するスクリプトの雛形
+main関数はSIGINTかSIGTERMでストップできる．
